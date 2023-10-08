@@ -13,9 +13,6 @@
 
 <br>
 
-<p align="center">
-  <img alt="projeto DevLinks" src=".assets/Desktop/Dark mode.png" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
