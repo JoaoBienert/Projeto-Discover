@@ -51,7 +51,8 @@ body *{
 }
   
 #principal {
-    width: 360px;
+    width: 100%;
+    max-width: 588px;
 
     /*
     height: 712px;
@@ -155,7 +156,6 @@ ul li a {
     transition: background 0.3s;
 }
 
-/*Hover é uma classe conhecida como pseud-selector*/
 
 ul li a:hover {
     border: 1.5px solid var( --text-color);
