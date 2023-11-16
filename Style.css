@@ -40,6 +40,7 @@ body {
     /* Podemos agrupar o BG em uma única propriedade Background: */
 
     background: var(--bg-url) no-repeat top center/cover;
+    height: 100vh;
 }
 
 
@@ -47,7 +48,7 @@ body *{
 
     font-family: 'Inter', sans-serif;
     color: var( --text-color);
-    height: 100vh;
+    
 
 }
   
